@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "LOSER",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-03T15:22:38.695506Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Three Time Loser",
+      "artist": "Dan Seals",
+      "has_synced": true,
+      "path": "select/01_Three_Time_Loser_Dan_Seals.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Loser",
+      "artist": "Tizzy Bac",
+      "has_synced": false,
+      "path": "select/02_Loser_Tizzy_Bac.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Loser In The End",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/03_The_Loser_In_The_End_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everybody Loves a Loser",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/04_Everybody_Loves_a_Loser_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Loser",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_Loser_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Loser",
+      "artist": "N.E.R.D. feat. Clipse",
+      "has_synced": false,
+      "path": "select/06_Loser_N.E.R.D._feat._Clipse.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Loser",
+      "artist": "Beck",
+      "has_synced": false,
+      "path": "select/07_Loser_Beck.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Born a Loser",
+      "artist": "Myd",
+      "has_synced": true,
+      "path": "select/08_Born_a_Loser_Myd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Loser",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/09_Bad_Loser_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm a Loser",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_I'm_a_Loser_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm A Loser",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_I'm_A_Loser_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Loser (Show Yourself to Me)",
+      "artist": "Kate Havnevik",
+      "has_synced": false,
+      "path": "select/12_Bad_Loser_(Show_Yourself_to_Me)_Kate_Havnevik.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Loser",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/13_Loser_Beck.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Loser",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/14_Loser_Beck.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Loser (LP Version)",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/15_Loser_(LP_Version)_Beck.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Loser Wins",
+      "artist": "BEA1991",
+      "has_synced": true,
+      "path": "select/16_Loser_Wins_BEA1991.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Beautiful Loser",
+      "artist": "Catatonia",
+      "has_synced": true,
+      "path": "select/17_Beautiful_Loser_Catatonia.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Loser",
+      "artist": "Dolores O'Riordan",
+      "has_synced": true,
+      "path": "select/18_Loser_Dolores_O'Riordan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_LOSER_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_LOSER_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_LOSER_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_LOSER_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_LOSER_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_LOSER_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_07_LOSER_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_08_LOSER_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_09_LOSER_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "LOSER",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_10_LOSER_米津玄師.txt"
+    }
+  ]
+}
